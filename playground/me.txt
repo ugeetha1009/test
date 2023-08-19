@@ -1,5 +1,0 @@
-{{#user}}
-Name: ugeetha1009
-Skills: HTML, CSS, JS, Java , SQL
-Email: geethadear@gmail.com
-{{/user}}
